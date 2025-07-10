@@ -1,0 +1,15 @@
+{
+  "job_1": {
+    "dir": "svg/modern",
+    "out": "bitmaps/Bibata-Modern-Classic-Macchiato-Mauve",
+    "colors": [
+      { "match": "#00FF00", "replace": "#24273a" },
+      { "match": "#0000FF", "replace": "#ca9ee6" },
+      { "match": "#FF0000", "replace": "#24273a" },
+      { "match": "#F05024", "replace": "#e78284" },
+      { "match": "#FCB813", "replace": "#e5c890" },
+      { "match": "#7EBA41", "replace": "#a6d189" },
+      { "match": "#32A0DA", "replace": "#8caaee" }
+    ]
+  }
+}
